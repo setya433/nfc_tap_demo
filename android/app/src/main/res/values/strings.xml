@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NFC Tap</string>
+    <string name="hce_service">My HCE Service</string>
+    <string name="aids">AID Configuration</string>
+</resources>
